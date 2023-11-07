@@ -2,6 +2,7 @@
 # try except example
 
 #Basic try except example
+x=2
 try:
     print(x)
 except:
